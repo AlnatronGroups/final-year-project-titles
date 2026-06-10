@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="3gBV3A6M38MZIfPMoSNqTmY6gqCvPhALqH27p8sBonU" />
+
 # 🎓 Final Year Project Titles – 2026 | Engineering & Arts | AI, ML, DL, LLM, Cyber Security, Blockchain | Coimbatore
 
 Welcome to the ultimate repository of **Final Year Project Titles for 2026**, curated for students from **Engineering** (ECE, EEE, CSE, IT) and **Arts & Science** backgrounds. This list is ideal for those looking for **innovative, trending, and industry-relevant project ideas** across domains like **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Large Language Models (LLMs)**, **Cyber Security**, and **Blockchain** technologies.
