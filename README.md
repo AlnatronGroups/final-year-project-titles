@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="3gBV3A6M38MZIfPMoSNqTmY6gqCvPhALqH27p8sBonU"/>
+<meta name="google-site-verification" content="3gBV3A6M38MZIfPMoSNqTmY6gqCvPhALqH27p8sBonU" />
 
 # 🎓 Final Year Project Titles – 2026 | Engineering & Arts | AI, ML, DL, LLM, Cyber Security, Blockchain | Coimbatore
 
